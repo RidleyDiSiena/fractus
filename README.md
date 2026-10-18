@@ -1,0 +1,24 @@
+# Fractus
+
+**One Shape, Folded at Every Depth**
+
+By Ridley DiSiena
+
+Before anyone can write the mathematics of a new physics, someone first has to build the picture that the mathematics would be a mathematics of. This is that picture. It is a thought experiment, not a finished theory. It offers no new equations. What it offers is a single way of seeing, followed as far as it will go, with an honest account kept along the way of what it borrows from known physics, what it is guessing at, and what would still have to be proven before any of it counted as science.
+
+Picture spacetime not as an empty stage that things happen on top of, and not as a fine grid of tiny pixels either, but as a single folded shape with real structure inside it. A particle is a knot tied in it. A force is a channel running through it. Gravity is the shape flexing as a whole. Light is a ripple traveling along its surface. There is no stage and no separate cast of actors. There is only the geometry, and the things we call physics are the different things this one shape is doing at different depths.
+
+- Read it on the website: https://ridleydisiena.github.io/fractus/
+- Read the source file: [fractus-master.md](fractus-master.md)
+
+## Status
+
+This is a thought experiment, not a finished theory.
+
+## Credit and license
+
+See the [Notice of Authorship](NOTICE.md) for what is original to the author and how to credit it. The text is licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for the full legal text.
+
+## How to cite
+
+Citation details are in [CITATION.cff](CITATION.cff). GitHub also shows a "Cite this repository" button on the repository page, built from that file.

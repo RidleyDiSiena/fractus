@@ -1,0 +1,10 @@
+title: Fractus
+description: One Shape, Folded at Every Depth
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
+  - CITATION.cff
