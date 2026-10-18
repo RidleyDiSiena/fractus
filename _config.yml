@@ -5,6 +5,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
+  hard_wrap: true
 exclude:
   - README.md
   - CITATION.cff
