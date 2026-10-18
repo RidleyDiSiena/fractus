@@ -1,0 +1,28 @@
+{
+  "title": "Fractus: One Shape, Folded at Every Depth",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "A thought experiment on how a single folded geometry might give rise to forces, matter, spin, light, gravity, and the dark universe. It is a thought experiment, not a finished theory. Read the manuscript at https://ridleydisiena.github.io/fractus/",
+  "creators": [
+    {
+      "name": "DiSiena, Ridley"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "physics",
+    "theoretical-physics",
+    "thought-experiment",
+    "standard-model",
+    "fractal-geometry"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ridleydisiena.github.io/fractus/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication"
+    }
+  ]
+}
