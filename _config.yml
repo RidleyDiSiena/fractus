@@ -8,3 +8,5 @@ kramdown:
 exclude:
   - README.md
   - CITATION.cff
+plugins:
+  - jekyll-seo-tag
