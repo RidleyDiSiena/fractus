@@ -107,7 +107,7 @@ body {
   text-transform: uppercase;
 }
 
-.pills { display: grid; gap: 6px; }
+.pills { display: grid; gap: 6px; margin-top: 18px; } /* breathing room under the elbow */
 /* The first button sits under the elbow's inner curve; round its corner to match. */
 .pills .pill:first-child { border-top-left-radius: 18px; }
 
@@ -154,7 +154,7 @@ body {
   padding: 6px 4px 6px 0;
   list-style: none;
   overflow-y: auto;
-  max-height: calc(100vh - 380px);
+  max-height: calc(100vh - 398px);
   scrollbar-width: thin;
   scrollbar-color: var(--line) transparent;
 }
