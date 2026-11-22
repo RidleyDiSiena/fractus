@@ -2,6 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+    {% assign successor_url = "https://ridleydisiena.github.io/fractus-ii" | append: page.url %}
+    <meta http-equiv="refresh" content="0; url={{ successor_url }}">
+    <script>window.location.replace({{ successor_url | jsonify }} + window.location.hash);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="dark">
     <meta name="theme-color" content="#0d0716">
